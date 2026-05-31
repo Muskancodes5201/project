@@ -1,9 +1,4 @@
-<html>
-    <head>
-        <tittle> first page</tittle>
-    </head>
-        <body> 
-            <button>click me</button>
-        </body>
-
-</html>
+function fun () {
+    alert("click hua");
+    window.location = "https://google.com"
+}
